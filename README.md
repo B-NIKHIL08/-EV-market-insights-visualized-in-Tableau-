@@ -26,7 +26,8 @@ To uncover insights into the evolution of EV adoption from 2010 onward—highlig
 👉 [View on Tableau Public](https://public.tableau.com/shared/DQM3Q9GS5?:display_count=n&:origin=viz_share_link)
 
 ## 🖼️ Preview
-*Coming Soon: Add a dashboard image or screenshot*
+![Screenshot 2025-06-30 194956](https://github.com/user-attachments/assets/f4fd9bbe-b263-4730-b02f-2e7f824b3cb1)
+
 
 ## 📂 Project Files
 - `EV_Dashboard.twbx` – Tableau Packaged Workbook
